@@ -1,0 +1,31 @@
+#title{
+    text-align: center;
+    font-size: 50px;
+}
+
+.content {
+    position: relative;
+}
+
+#main_image{
+   width:1080px;
+   height: auto;
+   margin-left: auto;
+   margin-right: auto;
+   display: block;
+   opacity: 0.9;
+}
+
+.center {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 80px;
+    color: white;
+  }
+
+  .recipes{
+    text-align: center;
+    list-style-position: inside;
+  }
